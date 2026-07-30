@@ -1,2 +1,2 @@
 # maya-tools
-Shelf tools, rigging/scene scripts, plugins
+Shelf tools, rigging/scene scripts, plugins, bifrost compounds
